@@ -75,3 +75,5 @@ footer.site a:hover{color:var(--brand2)}
 @media (max-width:640px){nav a{margin-left:14px;font-size:.88rem}.hero{padding:70px 0 50px}.btn.ghost{margin:10px 0 0}}
 .c4{background:linear-gradient(135deg,#f59e0b,#ef4444)}
 .by{color:var(--muted);font-size:.82rem}
+.cover-img{display:block;width:100%;height:auto;aspect-ratio:3/4;border-radius:10px;box-shadow:0 18px 40px -18px rgba(0,0,0,.6),0 0 0 1px var(--line);transition:transform .25s}
+.card:hover .cover-img{transform:scale(1.02) rotate(-.4deg)}

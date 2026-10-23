@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="Acres Of Diamonds by RUSSELL H. CONWELL, ePub ebook cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f1b2e"/><stop offset="1" stop-color="#3b2f63"/></linearGradient></defs>
+<rect width="600" height="800" fill="url(#g)"/>
+<path d="M240 90 l40 0 l20.0 24.0 l-60.0 60.0 l-60.0 -60.0 l20.0 -24.0z" fill="#ffb454" fill-opacity="0.9" stroke="#ffb454" stroke-width="2"/><path d="M430 120 l22 0 l11.0 13.2 l-33.0 33.0 l-33.0 -33.0 l11.0 -13.2z" fill="#ffb454" fill-opacity="0.5" stroke="#ffb454" stroke-width="2"/><path d="M130 150 l18 0 l9.0 10.799999999999999 l-27.0 27.0 l-27.0 -27.0 l9.0 -10.799999999999999z" fill="#ffb454" fill-opacity="0.4" stroke="#ffb454" stroke-width="2"/>
+<rect x="28" y="28" width="544" height="744" fill="none" stroke="#ffb454" stroke-opacity=".55" stroke-width="2"/>
+<rect x="40" y="40" width="520" height="720" fill="none" stroke="#ffb454" stroke-opacity=".25" stroke-width="1"/>
+<text x="300" y="246" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="84" fill="#ffffff">ACRES</text><text x="300" y="334" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="84" fill="#ffffff">OF</text><text x="300" y="422" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="84" fill="#ffffff">DIAMONDS</text>
+<line x1="240" y1="472" x2="360" y2="472" stroke="#ffb454" stroke-width="3"/>
+<text x="300" y="520" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="22" fill="#ffffff" fill-opacity=".85">Opportunities in your own backyard</text>
+<text x="300" y="690" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="28" letter-spacing="6" fill="#ffb454">RUSSELL H. CONWELL</text>
+<text x="300" y="738" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4" fill="#ffffff" fill-opacity=".55">LVC DIGITAL · CLASSIC EDITION</text>
+</svg>

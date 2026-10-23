@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="The Science Of Getting Rich by W. D. WATTLES, ePub ebook cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1b3a"/><stop offset="1" stop-color="#1d3c78"/></linearGradient></defs>
+<rect width="600" height="800" fill="url(#g)"/>
+<circle cx="470" cy="150" r="40" fill="none" stroke="#e8b64c" stroke-opacity="0.9" stroke-width="2"/><circle cx="470" cy="150" r="80" fill="none" stroke="#e8b64c" stroke-opacity="0.6" stroke-width="2"/><circle cx="470" cy="150" r="120" fill="none" stroke="#e8b64c" stroke-opacity="0.4" stroke-width="2"/><circle cx="470" cy="150" r="160" fill="none" stroke="#e8b64c" stroke-opacity="0.25" stroke-width="2"/>
+<rect x="28" y="28" width="544" height="744" fill="none" stroke="#e8b64c" stroke-opacity=".55" stroke-width="2"/>
+<rect x="40" y="40" width="520" height="720" fill="none" stroke="#e8b64c" stroke-opacity=".25" stroke-width="1"/>
+<text x="300" y="266" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="64" fill="#ffffff">THE SCIENCE</text><text x="300" y="333" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="64" fill="#ffffff">OF GETTING</text><text x="300" y="400" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="64" fill="#ffffff">RICH</text>
+<line x1="240" y1="450" x2="360" y2="450" stroke="#e8b64c" stroke-width="3"/>
+<text x="300" y="498" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="22" fill="#ffffff" fill-opacity=".85">A classic guide to wealth and mindset</text>
+<text x="300" y="690" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="28" letter-spacing="6" fill="#e8b64c">W. D. WATTLES</text>
+<text x="300" y="738" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4" fill="#ffffff" fill-opacity=".55">LVC DIGITAL · CLASSIC EDITION</text>
+</svg>
