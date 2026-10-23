@@ -41,7 +41,7 @@ h2.title{font-size:clamp(1.6rem,3.4vw,2.3rem);letter-spacing:-.03em;margin:0 0 8
 .num{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-weight:800;background:linear-gradient(135deg,var(--brand),var(--brand2));color:#fff;margin-bottom:14px}
 
 /* products */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(205px,1fr));gap:18px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;display:flex;flex-direction:column;gap:10px;transition:transform .2s,border-color .2s}
 .card:hover{transform:translateY(-4px);border-color:color-mix(in srgb,var(--brand) 55%,transparent)}
 .cover{aspect-ratio:4/3;border-radius:12px;display:flex;align-items:flex-end;padding:18px;font-weight:800;font-size:1.3rem;letter-spacing:-.02em;color:#fff;position:relative;overflow:hidden}
