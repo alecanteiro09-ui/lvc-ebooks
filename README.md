@@ -8,7 +8,7 @@ Static website for LVC DIGITAL LTD (England & Wales, company no. 16628298). Plai
 
 ## Before going live
 1. In `index.html`, replace the three placeholder ebooks (title, description, price) with real products.
-2. Replace each `Buy now` link (`href="#"`) with a Stripe Payment Link.
+2. Each `Buy now` button links to a Stripe Payment Link (see `index.html`).
 3. In `contact.html`, replace `support@example.com` with the real support email.
 
 ## Preview locally
