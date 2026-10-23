@@ -73,3 +73,5 @@ footer.site a{margin-right:18px;color:var(--ink);text-decoration:none}
 footer.site a:hover{color:var(--brand2)}
 
 @media (max-width:640px){nav a{margin-left:14px;font-size:.88rem}.hero{padding:70px 0 50px}.btn.ghost{margin:10px 0 0}}
+.c4{background:linear-gradient(135deg,#f59e0b,#ef4444)}
+.by{color:var(--muted);font-size:.82rem}
